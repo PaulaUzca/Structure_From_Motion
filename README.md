@@ -33,4 +33,4 @@ Se adquirieron las imágenes en diversas locaciones de la Universidad Industrial
 
 ## Contacto
 
-Para inquietudes, por favor contactar: @correo
+Para inquietudes, por favor contactar: paula.uzcategui68@gmail.com
