@@ -6,7 +6,7 @@
 
 # UISFM: Structure From Motion
 
-**[Paula Uzcátegui](https://github.com/PaulaUzca) · [Andrea Parra](https://github.com/andpgate) · [Jorge García](https://github.com/jorge1b3) · [Ramiro Avila](https://www.ejemplo.com/ramiro-avila)**
+**[Paula Uzcátegui](https://github.com/PaulaUzca) · [Andrea Parra](https://github.com/andpgate) · [Jorge García](https://github.com/jorge1b3) · [Ramiro Avila](https://github.com/ramiro999)**
 
 
 
