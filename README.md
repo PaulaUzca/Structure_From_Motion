@@ -30,6 +30,7 @@ Se adquirieron las imágenes en diversas locaciones de la Universidad Industrial
 
 - `images/`: Contiene las carpetas de las diferentes imágenes utilizadas. 
 - `stf_explicado`: Implementación y explicación en Colab Notebook.
+- `results`: Nubes de puntos (.ply) y modelos 3D (.obj) obtenidos
 
 ## Contacto
 
